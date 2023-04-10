@@ -54,8 +54,3 @@
   </a>
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/vainavi/vainavi/blob/output/snake.svg" alt="Snake animation" />
-
-###
