@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hello, Vainavi Here 👋
 🔭Exploring the universe of Data Science, MSc Data Science at VIT,Vellore.<br>🌱 Growing my Machine Learning skills while leveling up in Data Analysis.<br>💬 Ask me anything about AI, data, or why my code runs only after I debug it twice!<br>🎮 Gamer by night, data wizard by day—because both require strategy! 🚀
 
 
